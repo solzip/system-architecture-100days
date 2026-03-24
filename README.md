@@ -9,7 +9,7 @@
 
 - **기간:** 100일 (하루 1토픽)
 - **언어:** Java
-- **블로그:** [티스토리](https://yourname.tistory.com) *(링크 수정 필요)*
+- **블로그:** [티스토리](https://solarchive.tistory.com/6) 
 
 ## 커리큘럼
 
