@@ -11,7 +11,7 @@ package day02_srp_separation_of_concerns.code;
  * 컴파일: javac After.java
  * 실행:   java After
  */
-public class after {
+public class After {
 
     // ================================================================
     // 도메인 모델 — 순수한 데이터

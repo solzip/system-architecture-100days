@@ -12,7 +12,7 @@ package day02_srp_separation_of_concerns.code;
  * 컴파일: javac Before.java
  * 실행:   java Before
  */
-public class before {
+public class Before {
 
     // ================================================================
     // ❌ SRP 위반: 3명의 액터가 하나의 클래스에 의존
