@@ -1,4 +1,4 @@
-/**
+package day01_solid_principles.code; /**
  * Day 1 — SOLID 원칙 실습 (After: 리팩터링 후)
  *
  * Before.java의 모든 SOLID 위반을 수정한 버전이다.
@@ -9,9 +9,6 @@
  *   - 대신 각 클래스가 얼마나 단순해졌는가?
  *   - 새 기능을 추가할 때 기존 코드를 건드려야 하는가?
  */
-
-import java.util.ArrayList;
-import java.util.List;
 
 // ============================================================
 // ✅ SRP 적용: 책임을 분리한다

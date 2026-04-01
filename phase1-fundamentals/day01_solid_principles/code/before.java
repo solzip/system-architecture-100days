@@ -1,13 +1,10 @@
-/**
+package day01_solid_principles.code; /**
  * Day 1 — SOLID 원칙 실습 (Before: 리팩터링 전)
  *
  * 이 코드는 SOLID 원칙을 모두 위반하고 있다.
  * 직접 타이핑하면서 "어디가 왜 나쁜지" 주석을 달아보자.
  * 그 다음 After.java와 비교한다.
  */
-
-import java.util.ArrayList;
-import java.util.List;
 
 // ============================================================
 // ❌ 문제 1: SRP 위반
